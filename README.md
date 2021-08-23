@@ -22,7 +22,7 @@ I like to do :books:
 
 ⚡ Fun fact: I play games and go to the GYM very often.
 
-I leraning from...🎓📚
+I learning from...🎓📚
 
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pspragadesh)  [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pspragadesh/)
 
