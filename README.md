@@ -18,6 +18,8 @@ I like to do :books:
 
 -:small_blue_diamond: Ethereum Apps:small_orange_diamond:<br/>
 
+-:small_blue_diamond: Frontend Develope:small_orange_diamond:<br/>
+
 👯 I'm open for collaborations in **Blockchain** domains.
 
 ⚡ Fun fact: I play games and go to the GYM very often.
