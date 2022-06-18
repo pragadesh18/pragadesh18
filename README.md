@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! 
 
 
 I'm Pragadesh a Learner and Coder. I Spend most of time in coding outstanding projects or watching tutorials.
