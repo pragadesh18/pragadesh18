@@ -1,4 +1,4 @@
-## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> I'm Pragadesh <img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="28px" alt="hi">
+## Hi  I'm Pragadesh 
 
 I'm Pragadesh a Learner and Coder. I Spend most of time in coding outstanding projects or watching tutorials.
 
