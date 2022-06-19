@@ -9,8 +9,6 @@ I'm Pragadesh a Learner and Coder. I Spend most of time in coding outstanding pr
 
 -🔭 I’m currently pursuing **Bachelors in Computer Science and Engineering (Final Year)** from Kpr institute of engineering and technology at coimbatore.
 
-🌱 I’m currently learning from **Emurgo Blockchain**
-
 I like to do :books:
 
 -:small_blue_diamond: Blockchain Applications :iphone:<br/>
